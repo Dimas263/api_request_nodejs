@@ -26,4 +26,3 @@ list of spiderman movies
 ]                                                           
 total movies : 6 
 ```
-
